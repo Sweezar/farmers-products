@@ -1,0 +1,23 @@
+export const defaultTheme = {
+  colorBlackForText: "#333333",
+  colorWhite: "#ffffff",
+  colorGray: "#f6f6f6",
+  colorForLightBackground: "#ffffff",
+  colorForGreyBackground: "#f7f7f7",
+  colorForDarkBackground: "#d8ecfe",
+  colorForFarmerIcon: "#88aa4d",
+  colorForShopIcon: "#f75531",
+  colorForFarmerBackground: "#e1edce",
+  colorForShopBackground: "#f8ddd7",
+  colorForPriceBackground: "#d8ecfe",
+  colorForButton: "#fc9b27",
+  colorForButtonHover: "#F35714",
+  pagePadding: "90px",
+  indent: "20px",
+  fontFamily: '"Inter", "Arial", sans-serif',
+  fontSizeDefault: "18px",
+  fontSizeSmall: "14px",
+  headerHeight: "80px",
+  footerHeight: "80px",
+  pageWidth: "1280px"
+};
